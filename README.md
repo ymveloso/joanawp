@@ -4,7 +4,7 @@ Custom Wordpress Theme
 
 ## Built With
 
-* [Wordpress](http://www.wordpress.org) - The web framework used
+* [Wordpress](http://www.wordpress.org) - CMS
 
 ## Authors
 
