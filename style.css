@@ -2,10 +2,9 @@
 /*
 Theme Name: 4joana
 Author: Yara Veloso
-Author URI: https://yaraveloso.net
-Description: Custom portfolio theme
+Author URI: https://yaraveloso.nu
+Description: Custom theme
 Version: 1.0
-Tags: great, amazing, yara, joana, cute
 */
 
  * {
@@ -40,8 +39,6 @@ body {
     100% {background-color: #35cdab;}
 
   }
-
-  #35cdab
 
 /* 33%:3  100%:1 */
 .header {
